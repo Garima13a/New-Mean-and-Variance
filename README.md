@@ -1,0 +1,2 @@
+# New-Mean-and-Variance
+Now let's take the formulas from the example below and use them to write a program that takes in two means and variances, and returns a new, updated mean and variance for a gaussian. This step is called the parameter or measurement update because it is the update that happens when an initial belief (represented by the blue Gaussian, below) is merged with a new piece of information, a measurement with some uncertainty (the orange Gaussian).
